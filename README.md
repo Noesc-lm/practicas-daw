@@ -8,3 +8,6 @@ Aquí iré subiendo ejercicios y pequeños proyectos relacionados con:
 - Git y GitHub
 - Backend (Python, APIs)
 - Frontend (JavaScript, frameworks)
+## Nota
+Este cambio se ha hecho directamente desde GitHub.
+
